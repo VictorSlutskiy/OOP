@@ -1,0 +1,3 @@
+﻿  friendfunc.cpp
+C:\Users\AsapBook\Desktop\BSUIR\OOP\friendfunc\friendfunc.cpp(2,43): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  friendfunc.vcxproj -> C:\Users\AsapBook\Desktop\BSUIR\OOP\x64\Debug\friendfunc.exe
